@@ -1,7 +1,7 @@
 import { spawn } from 'child_process'
 import fetch from 'node-fetch'
 
-const WEBHOOK_URL = 'https://hooks.zapier.com/hooks/catch/14588309/u277zkp/'
+const WEBHOOK_URL = 'https://webhook.site/098ea412-331c-448b-930f-18050d24429e'
 
 const vitest = spawn('npx', ['vitest', 'run'], { shell: true })
 
