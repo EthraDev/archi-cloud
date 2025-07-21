@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-archicloud-dev-5ba02-authRole",
+      "UnauthRoleArn": "arn:aws:iam::848938735743:role/amplify-archicloud-dev-5ba02-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::848938735743:role/amplify-archicloud-dev-5ba02-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-archicloud-dev-5ba02-deployment",
+      "UnauthRoleName": "amplify-archicloud-dev-5ba02-unauthRole",
+      "StackName": "amplify-archicloud-dev-5ba02",
+      "StackId": "arn:aws:cloudformation:eu-west-1:848938735743:stack/amplify-archicloud-dev-5ba02/72210520-660d-11f0-8e40-0ac804599337",
+      "AmplifyAppId": "d53d6pta217hm"
+    }
+  }
+}
