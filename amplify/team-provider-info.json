@@ -11,5 +11,23 @@
       "StackId": "arn:aws:cloudformation:eu-west-1:848938735743:stack/amplify-archicloud-dev-5ba02/72210520-660d-11f0-8e40-0ac804599337",
       "AmplifyAppId": "d53d6pta217hm"
     }
+  },
+  "thea": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-archicloud-thea-55683-authRole",
+      "UnauthRoleArn": "arn:aws:iam::848938735743:role/amplify-archicloud-thea-55683-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::848938735743:role/amplify-archicloud-thea-55683-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-archicloud-thea-55683-deployment",
+      "UnauthRoleName": "amplify-archicloud-thea-55683-unauthRole",
+      "StackName": "amplify-archicloud-thea-55683",
+      "StackId": "arn:aws:cloudformation:eu-west-1:848938735743:stack/amplify-archicloud-thea-55683/9fdeefe0-662b-11f0-86c2-0208fe0c072d",
+      "AmplifyAppId": "d53d6pta217hm"
+    },
+    "categories": {
+      "function": {
+        "testthea": {}
+      }
+    }
   }
 }
